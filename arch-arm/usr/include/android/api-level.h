@@ -28,6 +28,6 @@
 #ifndef ANDROID_API_LEVEL_H
 #define ANDROID_API_LEVEL_H
 
-#define __ANDROID_API__ 24
+#define __ANDROID_API__ 26
 
 #endif /* ANDROID_API_LEVEL_H */
